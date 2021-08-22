@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "user",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Learn Cypress",
+      "id": 1
+    },
+    {
+      "name": "Learn Selenium",
+      "id": 2
+    }
+  ]
+}
